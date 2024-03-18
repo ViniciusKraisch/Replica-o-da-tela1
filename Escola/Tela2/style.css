@@ -1,0 +1,267 @@
+.primeira{
+    display: flex;
+    border-radius: 30px;
+    background-color: rgb(129, 195, 238);
+    width: 65%;
+}
+
+.robozinho {
+    display: flex;
+    margin-top: 95px;
+}
+.Título{
+    font-size: x-large;
+    font-family: Arial;
+}
+h5{
+    color: rgb(207, 220, 231); 
+}
+
+.robo h1{
+    color: rgba(0, 0, 255, 0.842);;
+}
+
+
+.setas{
+margin-left: 60px;
+margin-top: 110px;
+font-family: Arial;
+
+
+}
+
+.opções{
+    background-color: rgb(81, 81, 245);
+    border-radius: 10px;
+    color: rgb(207, 220, 231);
+    font-size: small;
+    text-align: center;
+    width: 110%;
+    height: 30px;
+    margin-top: 5px;
+    line-height: 30px;
+    
+}
+
+
+.pedidos{
+    border-radius: 30px;
+    width: 40%;
+    background-color: rgb(175, 213, 238);
+    margin-left: 40px;
+
+}
+
+.pedidos2{
+    color:rgba(0, 0, 255, 0.842);
+    margin-left: 20px;
+    display: flex;
+    
+}
+
+.pedidos3{
+    margin-left: 130px;
+}
+
+.pedidos4{
+    display: flex;
+    color: rgba(0, 0, 255, 0.842);
+}
+
+.pedidos5{
+    margin-left: 20px;
+    color: rgba(0, 0, 255, 0.842);
+    
+}
+
+.pedidos6{
+    margin-left: 70px;
+    color: rgba(0, 0, 255, 0.842);  
+}
+
+.pedidos7{
+    background-color: white;
+    border-radius: 10px;
+    display: flex;
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-bottom: 10px
+    ;
+}
+
+.atualizaçõesdopedido{
+    margin-right: 50px;
+    margin-left: 10px;
+}
+
+.status1{
+    background-color: rgb(37, 219, 46);
+    border-radius: 10px;
+    height: 50px;
+    margin-top: 5px;
+    color: aliceblue;
+    display: flex;
+    align-items: center;
+
+}
+
+.status1 h4{
+    margin: 0;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+.pedidos8{
+    background-color: white;
+    border-radius: 10px;
+    display: flex;
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-top: 10px;
+}
+.status2{
+    background-color: #f1b32b;
+    border-radius: 10px;
+    height: 50px;
+    margin-top: 5px;
+    color: aliceblue;
+    display: flex;
+    align-items: center;
+    width: 105px;
+}
+
+.status2 h4{
+    margin: 0;
+    margin-left: 25px;
+    margin-right: 10px;
+    
+}
+
+.pedidos9{
+    display: flex;
+    background-color: white;
+    border-radius: 10px;
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.status3{
+    background-color: #f80e0e;
+    border-radius: 10px;
+    height: 50px;
+    margin-top: 5px;
+    color: aliceblue;
+    display: flex;
+    align-items: center;
+    width: 105px;
+}
+
+.status3 h4{
+    margin: 0;
+    margin-left: 15px;
+    margin-right: 10px;
+    
+}
+
+.h4{
+    color: rgba(0, 0, 255, 0.842);
+}
+
+
+
+.parte1{
+    display: flex;
+}
+
+.parte2{
+    background-color: rgb(175, 213, 238);
+    width: 60%;
+    margin-top: 10px;
+    border-radius: 30px;
+}
+.compras{
+    display: flex;
+    background-color: rgb(175, 213, 238);
+    border-radius: 30px;
+    color: rgba(0, 0, 255, 0.842);
+}
+
+.compras2{
+    margin-left: 20px;
+}
+
+.compras3{
+    margin-left: 290px;
+}
+.chamex{
+    margin-left: 20px;
+    border-radius: 5px;
+    background-color: rgb(192, 192, 192);
+    width: 12%;
+}
+
+.folha h3{
+    font-size: small;
+    margin-left: 10px;
+}
+.produtos{
+    display: flex;
+}
+.sap{
+    margin-left: 20px;
+    border-radius: 10px;
+    background-color: white;
+    width: 13%;
+}
+.sap h3{
+    font-size: small;
+    margin-left: 10px;
+}
+.grampeadores{
+    margin-left: 20px;
+    border-radius: 10px;
+    background-color: white;
+    width: 13%;
+}
+.grampeadores h3{
+    font-size: small;
+    margin-left: 10px;
+    margin-top: 20px;
+}
+.gramp img{
+    margin-top: 20px;
+}
+
+.canetabic {
+    margin-left: 20px;
+    border-radius: 10px;
+    background-color: white;
+    width: 13%;
+}
+.bic h3{
+    font-size: small;
+    margin-left: 10px;
+}
+.lapis{
+    margin-left: 20px;
+    border-radius: 10px;
+    background-color: white;
+    width: 13%;
+}
+.lapis h3{
+    font-size: small;
+    margin-left: 10px; 
+    margin-top: 30px;
+}
+.caderno{
+    margin-left: 20px;
+    border-radius: 10px;
+    background-color: white;
+    width: 13%;
+}
+.caderno h3{
+    font-size: small;
+    margin-left: 10px;
+    margin-top: 25px;
+}
